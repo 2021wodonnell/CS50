@@ -1,12 +1,12 @@
 #Scratch Project
 
-**This is bold** break
-*This is italicized*
-~~strikethrough~~
+**This is bold** <br>
+*This is italicized* <br>
+~~strikethrough~~ <br>
 
 Numbered list
-1.item one
-2.item two
+1. item one
+2. item two
 
 bulletted list
 * item one
