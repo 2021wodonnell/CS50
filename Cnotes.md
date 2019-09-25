@@ -60,6 +60,31 @@ Else if (x > y)
 {
 Printf("x is greater than y \n");
 }
-Else if (x = y)
+Else if (x == y)
 {
-Printf("x is equal to
+Printf("x is equal to y n\");
+}
+
+== is actually equal to, while = is just assignments
+
+Scratch: Forever saying Hello, world
+
+```C
+While(true)
+{
+Printf("hello, world \n");
+}
+
+Scratch: Say 50 time, Hello, world
+
+```C
+for (int i = 0; i < 50; i++)
+{
+printf("Hello, world \n");
+}
+
+Scratch: Ask "What is your name" and wait, say (answer)
+
+```C
+string answer = get_string("whats your name \n");
+printf("%s", answer);
