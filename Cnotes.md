@@ -1,4 +1,5 @@
 ## Cnotes
+# Day 1
 Scratch: say (Hello, world)
 
 ```C (Tells Markdown that code is in C)
@@ -48,6 +49,7 @@ Else
 {
 Printf("x is not less than y \n");
 }
+```
 
 Scratch: Add another Else to previous statement
 
@@ -64,6 +66,7 @@ Else if (x == y)
 {
 Printf("x is equal to y n\");
 }
+```
 
 == is actually equal to, while = is just assignments
 
@@ -74,6 +77,7 @@ While(true)
 {
 Printf("hello, world \n");
 }
+```
 
 Scratch: Say 50 time, Hello, world
 
@@ -82,9 +86,47 @@ for (int i = 0; i < 50; i++)
 {
 printf("Hello, world \n");
 }
+```
 
 Scratch: Ask "What is your name" and wait, say (answer)
 
 ```C
 string answer = get_string("whats your name \n");
 printf("%s", answer);
+```
+
+# Day 2
+
+**cs50 IDE**
+
+Directories = Folder
+
+mkdir = Make directory
+
+CD = change directory
+
+CD .. = Go up one
+
+LS = List everything
+
+mv = move
+
+mv (old file name) (new file name) = Change file name
+
+rm = remove a file
+
+rmdir = Remove Directory
+
+**C Notes**
+
+```C
+#include <stdio.h>
+
+int main(void)
+{
+printf("Hello, world\n");
+}
+```
+
+./FILENAME = run file
+
