@@ -130,3 +130,32 @@ printf("Hello, world\n");
 
 ./FILENAME = run file
 
+# Day 3
+
+You can add <cs.50.h>
+
+```c
+int main(void)
+{
+  string name = get_string("What is your name \n");
+  Printf("Hello, %s\n", name);
+}
+```
+
+get_int and get_string can be used to get integers and strings
+
+% can be used to put in integers
+
+```c
+Include studios
+
+int main(void)
+{
+  float x = get_float("x: ")
+  
+  float y = get_float("y: ")
+}
+```
+
+%f
+%f.2
