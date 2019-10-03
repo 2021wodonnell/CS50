@@ -159,3 +159,64 @@ int main(void)
 
 %f
 %f.2
+
+```c
+printf("x + y = %i \n")
+```
+
+Finite memory storing infinite numbers    NOT POSSIBLE
+
+```c
+int n = ("n: ");
+
+if (n % 2 == 0)
+{
+printf("even\n")
+}
+else
+{
+printf("odd\n")
+}
+```
+
+```c
+int x = get_int("x: ");
+
+int y = get_int("y: ");
+
+if(x < y)
+{
+printf("x is less than y\n");
+}
+else if (x > y)
+{
+printf("x is greater than y\n");
+}
+```
+
+1:40:58 on lecture 1
+
+|| is or
+& is and
+! is not equal
+
+# Day 4
+
+Copy and paste is bad code
+
+```c
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+
+{
+    for (int i = 0; i < 3; i++)
+        
+    printf("cough\n");
+}
+```
+
+Prototype: Put it at the beginning for C to find later in the code
+
+do - while loops ensure the loop command is executed at least 1 time
