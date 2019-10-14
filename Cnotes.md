@@ -220,3 +220,9 @@ int main(void)
 Prototype: Put it at the beginning for C to find later in the code
 
 do - while loops ensure the loop command is executed at least 1 time
+
+##SUPER USEFUL TOOLS
+help50
+style50
+check50
+submit50
