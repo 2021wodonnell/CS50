@@ -226,3 +226,13 @@ help50
 style50
 check50
 submit50
+
+## Lecture 2
+
+preprocessor
+compiler - human words to computer words
+assembly code - taking human words and translating it to computer acceptable words
+machine code - turning computer words into 0s and 1s
+
+Array - contiguous "Chunk" of memory for storing information i.e. char is 1 but int is 4
+
