@@ -237,3 +237,22 @@ machine code - turning computer words into 0s and 1s
 Array - contiguous "Chunk" of memory for storing information i.e. char is 1 but int is 4
 
 [ ] is used to say, "I have one variable, but want x amount of unique values"
+
+Use 43:00 on cs50 lecture 2 video for help on arrays
+
+int score[3]
+  get 3 scores [][][]
+  score is a variable, but you want 3 seperate answers
+  
+"global" variable
+  const int COUNT = 3;   <---- This can help avoid putting 3, 3, 3, 3 making it easier to change into a new value / usually written in all caps to show a universal variable
+  int score[count]
+  
+const- can't change this variable/ helps remove human error
+
+combine string and array and use this to check the length of the string
+
+use 55:00 for the string and array use
+
+It is bad practice to put function in loop initialization
+
