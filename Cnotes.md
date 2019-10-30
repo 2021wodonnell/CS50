@@ -236,3 +236,4 @@ machine code - turning computer words into 0s and 1s
 
 Array - contiguous "Chunk" of memory for storing information i.e. char is 1 but int is 4
 
+[ ] is used to say, "I have one variable, but want x amount of unique values"
