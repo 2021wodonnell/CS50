@@ -256,3 +256,25 @@ use 55:00 for the string and array use
 
 It is bad practice to put function in loop initialization
 
+String = "Candy"
+string[0] = "C"
+s[1]=a
+s[2]=n
+so on
+int c =(int)s[i]
+Strings are arrays
+
+A 5 letter word will be a 6 character array, \0 is used as the null character to signify the end
+
+Casting: changing a data type
+
+library ctype.h can use islower and toupper
+
+man (manual) will help knowing how to use things
+RTFM - Read The 'Flipping' Manual
+
+argc: arguement count <----------------------
+argv: arguement vector <----/                \
+                                              |
+cs50 lecture 2 at 1:20:00 can help with above ^
+
