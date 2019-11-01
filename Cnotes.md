@@ -273,8 +273,8 @@ library ctype.h can use islower and toupper
 man (manual) will help knowing how to use things
 RTFM - Read The 'Flipping' Manual
 
-argc: arguement count <----------------------
-argv: arguement vector <----/                \
-                                              |
-cs50 lecture 2 at 1:20:00 can help with above ^
+argc: arguement count <---------------------- <br>
+argv: arguement vector <----/                \ <br>
+                                              | <br>
+cs50 lecture 2 at 1:20:00 can help with above ^ <br>
 
