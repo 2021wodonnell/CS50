@@ -278,3 +278,7 @@ argv: arguement vector <----/                \ <br>
                                               | <br>
 cs50 lecture 2 at 1:20:00 can help with above ^ <br>
 
+string x = argv[0] //This is always going to be the program name, the first thing you gave
+
+You cannot cast a string to an int
+
