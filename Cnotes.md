@@ -282,3 +282,50 @@ string x = argv[0] //This is always going to be the program name, the first thin
 
 You cannot cast a string to an int
 
+Cannot printf("%a", array)
+must print it in a for loop using the elements
+```c
+for(int i = 0; i < n; i++);
+{
+  printf("%i", array[i])
+}
+```
+
+for unique.c
+input 67275
+should be 6725
+myarray[6][7][2][7][5] <----- i
+unique array[6][7][2][5][X] <---- j
+int counter = 0
+
+```c
+for(int i = 0, ihiuwhiuhg)
+{
+  int counter = 0
+  myarray[i]
+  for(int j = counter jfhfuqhfu)
+  {
+  if(myarray[i]==unique[j])
+  
+  if not equal
+  {
+  unique[j]=myarray[i]
+  counter++
+```
+
+for sort.c
+input 1362
+output 1236 or 6321
+myarray[1][3][6][2]
+sort[1][2][3][6]
+```c
+for (int i = o; i < n; i++)
+{
+  for (int j = i + 1; j < n; j++)
+  {
+    if (myarray[i] > myarray[j])
+    {
+      myarray[1]=myarray[3]
+      a = myarray[1]
+      myarray[3] = a
+  
