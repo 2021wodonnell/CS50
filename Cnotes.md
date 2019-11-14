@@ -291,12 +291,12 @@ for(int i = 0; i < n; i++);
 }
 ```
 
-for unique.c
-input 67275
-should be 6725
-myarray[6][7][2][7][5] <----- i
-unique array[6][7][2][5][X] <---- j
-int counter = 0
+for unique.c <br>
+input 67275 <br>
+should be 6725 <br>
+myarray[6][7][2][7][5] <----- i <br>
+unique array[6][7][2][5][X] <---- j <br>
+int counter = 0 <br>
 
 ```c
 for(int i = 0, ihiuwhiuhg)
@@ -313,11 +313,12 @@ for(int i = 0, ihiuwhiuhg)
   counter++
 ```
 
-for sort.c
-input 1362
-output 1236 or 6321
-myarray[1][3][6][2]
-sort[1][2][3][6]
+for sort.c <br>
+input 1362 <br>
+output 1236 or 6321 <br>
+myarray[1][3][6][2] <br>
+sort[1][2][3][6] <br>
+
 ```c
 for (int i = o; i < n; i++)
 {
@@ -329,3 +330,17 @@ for (int i = o; i < n; i++)
       a = myarray[1]
       myarray[3] = a
 ```
+
+make distinct error messages for argc argv code (areas.c)
+
+1:25:00 on Lecture 2 for encrypted code
+
+Plain text: Original text "I Love You"<br>
+Ciphertext: Encode/ Encrypted text "J Knud Xnt"<br>
+Key: "Secret" to decrypting or encrypting ciphertext; Each letter back one in alphabet<br>
+Frequency attack: Guess & check based on how frequent words/letters are used; One may see the lone 'J' and assume 'A' or 'I', 'n' shows up twice, soon one may pick up this pattern
+
+echo $? - can show the return values of main; This is useful because you can add "return (none zero number)" and do this to see where the error is/ where it is not working <br>
+Return = 0: ALL GOOD! <br>
+Return != 0: NOT GOOD!
+
