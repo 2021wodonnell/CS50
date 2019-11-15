@@ -344,3 +344,17 @@ echo $? - can show the return values of main; This is useful because you can add
 Return = 0: ALL GOOD! <br>
 Return != 0: NOT GOOD!
 
+SORTING METHODS
+
+"Bubble" Sort <br>
+Repeat until no swaps <br>
+  for i from 0 to n-2 <br>
+    if i'th and i+1'th elements out of order <br>
+      swap them <br>
+Pushes large values to the end to avoid looping all the way to the end all the time
+      
+"Selection" Sort <br>
+for i from 0 to n-1 <br>
+  find smallest element between i'th and n-1'th <br>
+  swap smallest with i'th element <br>
+Grabs the smallest element and replaces the i'th element
