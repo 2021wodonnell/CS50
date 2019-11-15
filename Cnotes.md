@@ -358,3 +358,12 @@ for i from 0 to n-1 <br>
   find smallest element between i'th and n-1'th <br>
   swap smallest with i'th element <br>
 Grabs the smallest element and replaces the i'th element
+
+O(n) - Big Oh notation <br>
+O(n) linear complexity <br>
+O(n^2) Quadratic complexity <br>
+O(log(n)) Logarithmic complexity <br>
+O(n log(n)) Logarithmic linear <br>
+O(1) Constant complexity <br>
+
+TIME TAKEN : O(1) < O(log n) < O(n) < O(n log n) < O(n^2)
