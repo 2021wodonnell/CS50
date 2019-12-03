@@ -367,3 +367,12 @@ O(n log(n)) Logarithmic linear <br>
 O(1) Constant complexity <br>
 
 TIME TAKEN : O(1) < O(log n) < O(n) < O(n log n) < O(n^2)
+
+## Lecture 3 <br>
+debug50 ./hello  <----- Only works on running code
+
+This will debug issues, it can keep track of variable values and figure out some problems with a code
+
+0x0 is 0x hex 0 nothing
+
+USE THIS TO TAKE A CODE STEP BY STEP
