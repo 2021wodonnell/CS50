@@ -376,3 +376,6 @@ This will debug issues, it can keep track of variable values and figure out some
 0x0 is 0x hex 0 nothing
 
 USE THIS TO TAKE A CODE STEP BY STEP
+
+Strings don't actually exist in code, it is only in the cs50 library
+
