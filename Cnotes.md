@@ -379,3 +379,5 @@ USE THIS TO TAKE A CODE STEP BY STEP
 
 Strings don't actually exist in code, it is only in the cs50 library
 
+
+Malloc can allocate arrays while realloc can reallocate mallocs
