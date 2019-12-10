@@ -381,3 +381,5 @@ Strings don't actually exist in code, it is only in the cs50 library
 
 
 Malloc can allocate arrays while realloc can reallocate mallocs
+
+Cannot use get-string with a set size array
