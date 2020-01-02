@@ -384,3 +384,9 @@ Malloc can allocate arrays while realloc can reallocate mallocs
 
 Cannot use get-string with a set size array
 
+
+fopen("Filename.ext", "w") <br>
+r = read <br>
+w = write --> overwrite <br>
+a = append --> add to text
+
